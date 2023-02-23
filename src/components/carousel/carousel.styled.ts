@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
-import rightQt from "../assets/right-qt.png";
-import leftQt from "../assets/left-qt.png";
+import rightQt from "../../assets/right-qt.png";
+import leftQt from "../../assets/left-qt.png";
 
 const StyledCarousel = styled.div`
   position: relative;

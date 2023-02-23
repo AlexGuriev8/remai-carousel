@@ -21,8 +21,8 @@ const MyCarousel = () => {
               initial="enter"
               animate="center"
               transition={{
-                x: { type: "spring", stiffness: 300, damping: 30 },
-                opacity: { duration: 0.2 },
+                x: { type: "spring", stiffness: 500, damping: 70 },
+                opacity: { duration: 0.5 },
               }}
               drag="x"
               dragConstraints={{ left: 0, right: 0 }}

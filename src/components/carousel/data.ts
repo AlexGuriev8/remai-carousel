@@ -1,5 +1,5 @@
-import victor from "../assets/Victor.png";
-import stefan from "../assets/stefan.png";
+import victor from "../../assets/victor.png";
+import stefan from "../../assets/stefan.png";
 
 export const users = [
   {
